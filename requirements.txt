@@ -1,0 +1,8 @@
+torch
+torchvision
+timm
+gradio==4.29.0
+Pillow
+scikit-learn
+numpy
+matplotlib
