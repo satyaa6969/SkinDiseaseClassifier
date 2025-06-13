@@ -50,6 +50,9 @@ Upload a dermatoscopic image, and the model will predict the top 3 most likely s
 - timm (PyTorch Image Models)
 
 ---
+## 🔍 Link to HuggingFace Space:
+https://huggingface.co/spaces/Satyejeet69/SkinDiseaseClassifier
+
 
 ## 📄 License
 
